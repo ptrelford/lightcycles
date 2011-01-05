@@ -1,0 +1,7 @@
+<OutOfBrowserSettings ShortName="LightCycles Application" EnableGPUAcceleration="True" ShowInstallMenuItem="False">
+  <OutOfBrowserSettings.Blurb>SilverRayDesktop Application on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="LightCycles Application" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons />
+</OutOfBrowserSettings>
